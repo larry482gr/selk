@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header{
+	font-size:xx-large;
+	font-weight:bold;
+	text-align:center;
+}
+
+.center{
+	text-align:center;
+}
+
+#t1{
+	color:#00F;
+}
+
+#t2{
+	color:#F00;
+}
+
+#t3{
+	color:#FD0;
+}
+
+#t4{
+	color:#0F0;
+}
+
+#t5{
+	color:#F00;
+}
+
+#t6{
+	color:#00F;
+}
+
+#t7{
+	color:#0F0;
+}
+
+#t8{
+	color:#FD0;
+}
+
+#searchdesc{
+	color:#09C;
+	font-size:large;
+	font-weight:bold;
+	vertical-align: bottom;
+}
+
+#titledesc{
+	font-weight:normal;
+	font-size:medium;
+}
